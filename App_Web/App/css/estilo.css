@@ -1,0 +1,278 @@
+* {
+  margin:  0;
+  padding: 0;
+}
+
+body{
+	height: auto;
+	margin-left: 40px;
+}
+
+div.top{
+	width: 100%;
+	height: 100%;
+}
+
+div.carrousel{
+	margin-top: -5px;
+	width: 100%;
+	height: 100%;
+}
+
+button.menu{
+	margin-left: -4px;
+	border: none;
+}
+
+div.botonera{
+	margin-left: 330px;
+	margin-top: -200px;
+}
+
+div.tramites{
+	margin-left: 330px;
+	margin-top: -612px;
+}
+
+div.infopersonal{
+	margin-left: 330px;
+	margin-top: -600px;
+}
+
+div.agenda{
+	float: right;
+	margin-top: -600px;
+	margin-right: 100px;
+}
+
+div.horarios{
+	float: right;
+	margin-top: -600px;
+	margin-right: 20px;	
+}
+
+div.recorridos{
+	float: right;
+	margin-top: -600px;
+	margin-right: 20px;	
+}
+
+div.guia{
+	margin-top: -600px;
+	margin-left: 325px;
+}
+
+div.guiaempleo{
+	margin-top: -600px;
+	margin-left: 310px;
+}
+
+div.guiadesarrollo{
+	margin-top: -575px;
+	margin-left: 325px;
+}
+
+div.guiadesalud{
+	margin-top: -590px;
+	margin-left: 325px;
+}
+
+div.guiadeotros{
+	margin-top: -600px;
+	margin-left: 325px;
+}
+
+div.otros{
+	margin-top: -195px;
+	margin-left: 550px;
+}
+
+
+div.guiadecarnet{
+	margin-top: -600px;
+	margin-left: 325px;
+}
+
+div.carnet{
+	margin-top: -350px;
+	margin-left: 570px;
+}
+
+div.salud{
+	margin-top: -200px;
+	margin-left: 550px;
+}
+
+div.empleo{
+	margin-top: -120px;
+	margin-left: 250px;
+}
+
+div.guiadescentralizacion{
+	margin-top: -590px;
+	margin-left: 325px;
+}
+
+div.servicios{
+	margin-top: -450px;
+	margin-left: 565px;
+}
+
+div.descentralizacion{
+	margin-top: -160px;
+	margin-left: 570px;
+}
+
+div.omic{
+	margin-top: -600px;
+	margin-left: 320px;
+}
+
+div.seleccion{
+	margin-top: -600px;
+	margin-left: 320px;
+}
+
+div.licencias{
+	margin-top: -160px;
+	margin-left: 555px;
+}
+
+div.desarrollo{
+	margin-top: -310px;
+	margin-left: 580px;
+}
+
+div.ley{
+	margin-top: -500px;
+	margin-left: 575px;
+}
+
+button.inicio{
+	outline:none;
+	background-color: white;
+	border-bottom-color: white;
+	border: none;
+}
+
+button.menu{
+	outline:none;
+	background-color: white;
+	border-bottom-color: white;
+	border: none;
+}
+
+div.mantenimiento{
+	margin-top: -180px;
+	margin-left: 350px;
+}
+
+div.title{
+	margin-top: -150px;
+	margin-left: 370px;
+}
+
+span.mesbol{
+	margin-left: 70px;
+	color: rgb(157, 178, 39);
+}
+
+div.issuuembed{
+	margin-left: 10px;
+}
+
+table.boletin{
+	margin-left:360px;
+}
+
+/* HOSPITAL */
+
+div.info{
+	margin-left: 320px;
+	margin-top: -599px;
+}
+
+div.dia{
+	margin-top: -80px;
+	margin-left: 730px;
+}
+
+span.dia{
+	color: white;
+	font-size: 28px;
+	text-align: center;
+	margin-left: 10px;
+}
+
+span.mes{
+	color: white;
+	font-size: 28px;
+	text-align: center;
+	margin-left: 28px;
+}
+
+span.anio{
+	color: white;
+	font-size: 28px;
+	text-align: center;
+	margin-left: 13px;
+}
+
+div.medicos{
+	margin-top: -400px;
+}
+
+span.general{
+	font-size: 25px;
+	color: #9FBC2C;
+	margin-left: 35px;
+}
+
+span.pediatria{
+	font-size: 25px;
+	color: #9FBC2C;
+	margin-left: 100px;
+}
+
+span.terapia{
+	font-size: 25px;
+	color: #9FBC2C;
+	margin-left: 125px;
+}
+
+div.consultorios{
+	margin-top: 0px;
+}
+
+span.cgeneral{
+	color: #9FBC2C;
+	margin-left: 55px;
+}
+
+span.cpediatria{
+	color: #9FBC2C;
+	margin-left: 220px;
+}
+
+span.cterapia{
+	color: #9FBC2C;
+	margin-left: 250px;
+}
+
+span.general1{
+	font-size: 25px;
+	color: #9FBC2C;
+	margin-left: 35px;
+}
+
+span.pediatria1{
+	font-size: 25px;
+	color: #9FBC2C;
+	margin-left: 100px;
+}
+
+span.terapia1{
+	font-size: 25px;
+	color: #9FBC2C;
+	margin-left: 175px;
+}
