@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-02-12 12:29:33
+<?php /* Smarty version Smarty-3.1.19, created on 2015-02-12 13:07:08
          compiled from ".\templates\docinternacion.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:185054d20742516fd9-86739090%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '44656f20ea1b6475293789467cdba25aa7b0c85b' => 
     array (
       0 => '.\\templates\\docinternacion.tpl',
-      1 => 1423740463,
+      1 => 1423742822,
       2 => 'file',
     ),
   ),
@@ -33,7 +33,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 		<!-- <img src="Recorte/Agenda Cultural/Lat2_AgendaCultural.jpg" alt ="latera2" /> -->	
 	</div>
 	
-	<div class="info">
-		<img src="Recorte/Hospital/HOS_DocInternacion/Info_Internasion.jpg" alt ="Cuerpo" />
+	<div class="construccion">
+		<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/Hospital/HOS_DocInternacion/Info_Internasion.jpg" alt ="Cuerpo" />
 	</div>
 </body><?php }} ?>

@@ -2,6 +2,6 @@
 
 <body>
 	<div class="empleo">
-		<img src="Recorte/Guia de Tramites/Empleo/Info_BuscaTrabajo.jpg" alt ="indice" /> </button>
+		<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/Guia%20de%20Tramites/Empleo/Info_BuscaTrabajo.jpg" alt ="indice" /> </button>
 	</div>
 </body>

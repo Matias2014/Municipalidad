@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-02-12 12:29:31
+<?php /* Smarty version Smarty-3.1.19, created on 2015-02-12 13:07:54
          compiled from ".\templates\hospitalOncologico.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:2499754d2056a812409-53344024%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'f7b482c7686d92c85706f564da56b37a67f933c0' => 
     array (
       0 => '.\\templates\\hospitalOncologico.tpl',
-      1 => 1423740501,
+      1 => 1423742867,
       2 => 'file',
     ),
   ),
@@ -33,7 +33,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 		<!-- <img src="Recorte/Agenda Cultural/Lat2_AgendaCultural.jpg" alt ="latera2" /> -->	
 	</div>
 	
-	<div class="info">
-		<img src="Recorte/Hospital/HOS_HospitalOncologico/Info_HospitalOncologico.jpg" alt ="Cuerpo" />
+	<div class="construccion">
+		<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/Hospital/HOS_HospitalOncologico/Info_HospitalOncologico.jpg" alt ="Cuerpo" />
 	</div>
 </body><?php }} ?>

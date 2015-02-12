@@ -9,6 +9,6 @@
 	</div>
 	
 	<div class="agenda">
-		<img src="Recorte/Agenda Cultural/Info_AgendaCultural.jpg" alt ="Cuerpo" />
+		<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/Agenda%20Cultural/Info_AgendaCultural.jpg" alt ="Cuerpo" />
 	</div>
 </body>

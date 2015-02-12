@@ -10,6 +10,6 @@
 	</div>
 	
 	<div class="servicios">
-		<img src="Recorte/InfoPersonal/PersonalContacto.jpg" alt ="Botonera" />
+		<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/InfoPersonal/PersonalContacto.jpg" alt ="Botonera" />
 	</div>
 </body>

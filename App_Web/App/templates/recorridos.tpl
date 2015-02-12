@@ -10,6 +10,6 @@
 	</div>
 	
 	<div class="recorridos">
-		<img src="Recorte/TPU Recorridos/Info_TPURecorridos.jpg" alt ="Cuerpo" />
+		<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/TPU%20Recorridos/Info_TPURecorridos.jpg" alt ="Cuerpo" />
 	</div>
 </body>

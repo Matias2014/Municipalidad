@@ -10,6 +10,6 @@
 	</div>
 	
 	<div class="agenda">
-		<img src="Recorte/Guia de Tramites/PANDA/Info_PANDA.jpg" alt ="Cuerpo" />
+		<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/Guia%20de%20Tramites/PANDA/Info_PANDA.jpg" alt ="Cuerpo" />
 	</div>
 </body>

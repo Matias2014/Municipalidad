@@ -2,6 +2,6 @@
 
 <body>
 	<div class="servicios">
-		<img src="Recorte/Guia de Servicios/almacenes regionales.jpg" alt ="servicio" />
+		<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/Guia%20de%20Servicios/almacenes%20regionales.jpg" alt ="servicio" />
 	</div>
 </body>

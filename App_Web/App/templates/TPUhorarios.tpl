@@ -10,6 +10,6 @@
 	</div>
 	
 	<div class="horarios">
-		<img src="Recorte/TPU Horarios/Info_TPUHorarios.jpg" alt ="Cuerpo" />
+		<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/TPU%20Horarios/Info_TPUHorarios.jpg" alt ="Cuerpo" />
 	</div>
 </body>

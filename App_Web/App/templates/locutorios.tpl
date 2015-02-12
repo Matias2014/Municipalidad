@@ -2,6 +2,6 @@
 
 <body>
 	<div class="servicios">
-		<img src="Recorte/Guia de Servicios/locutorios.jpg" alt ="servicio" />
+		<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/Guia%20de%20Servicios/locutorios.jpg" alt ="servicio" />
 	</div>
 </body>

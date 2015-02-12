@@ -9,6 +9,6 @@
 	</div>
 	
 	<div class="omic">
-		<img src="Recorte/Guia de Tramites/OMIC/Info_OMIC.jpg" alt ="Cuerpo" />
+		<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/Guia%20de%20Tramites/OMIC/Info_OMIC.jpg" alt ="Cuerpo" />
 	</div>
 </body>

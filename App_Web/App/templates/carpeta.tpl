@@ -11,7 +11,7 @@
 	</div>
 
 	<div class="seleccion">
-		<img src="Recorte/carpetamedica/carpeta.jpg" alt ="Botonera" />
+		<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/carpetamedica/carpeta.jpg" alt ="Botonera" />
 	</div>
 	
 </body>

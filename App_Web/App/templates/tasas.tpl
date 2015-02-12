@@ -11,7 +11,7 @@
 	</div>
 	
 	<div class="info">
-		<img src="Recorte/Tasas/Info_Tasas.jpg" alt ="Botonera" />
+		<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/Tasas/Info_Tasas.jpg" alt ="Botonera" />
 	</div>
 
 </body>

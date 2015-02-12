@@ -9,7 +9,7 @@
 		<!-- <img src="Recorte/Agenda Cultural/Lat2_AgendaCultural.jpg" alt ="latera2" /> -->	
 	</div>
 	
-	<div class="info">
-		<img src="Recorte/Hospital/HOS_HospitalOncologico/Info_HospitalOncologico.jpg" alt ="Cuerpo" />
+	<div class="construccion">
+		<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/Hospital/HOS_HospitalOncologico/Info_HospitalOncologico.jpg" alt ="Cuerpo" />
 	</div>
 </body>
