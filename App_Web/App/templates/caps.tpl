@@ -11,7 +11,7 @@
 	</div>
 	
 	<div class="info">
-		<img src="Recorte/Hospital/HOS_CAPS/Info_HOS_CAPS.jpg" alt ="Botonera" />
+		<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/Hospital/HOS_CAPS/Info_HOS_CAPS.jpg" alt ="Botonera" />
 	</div>
 
 </body>

@@ -921,6 +921,21 @@
 			$vista->mostrar();
 		}
 
+		/* Hospital Oncologico */
+		
+		public function hospitaloncologico(){
+			include_once './view/hospitalOncologico.php';
+			$vista = new VistahospitalOncologico();
+			$vista->mostrar();
+		}
+		
+		/* Doc Internacion */
+		
+		public function docinternacion(){
+			include_once './view/docinternacion.php';
+			$vista = new Vistadocinternacion();
+			$vista->mostrar();
+		}
 	}
 
 ?>

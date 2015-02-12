@@ -276,3 +276,10 @@ span.terapia1{
 	color: #9FBC2C;
 	margin-left: 175px;
 }
+
+div.construccion{
+	width: 900px;
+	height: 600px;
+	margin-left: 450px;
+	margin-top: -200px;
+}

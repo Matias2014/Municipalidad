@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-01-29 22:58:07
+<?php /* Smarty version Smarty-3.1.19, created on 2015-02-12 12:21:05
          compiled from ".\templates\hvisitas.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:2443654caacef46a141-04701018%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '8c1accb68f577431877a5ee004cb61740963ce8e' => 
     array (
       0 => '.\\templates\\hvisitas.tpl',
-      1 => 1422449005,
+      1 => 1423740043,
       2 => 'file',
     ),
   ),
@@ -15,9 +15,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
   'unifunc' => 'content_54caacef4de025_96038874',
+  'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_54caacef4de025_96038874')) {function content_54caacef4de025_96038874($_smarty_tpl) {?><?php echo $_smarty_tpl->getSubTemplate ("head.tpl", $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 0, null, array(), 0);?>
 
@@ -35,7 +35,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	</div>
 	
 	<div class="info">
-		<img src="Recorte/Hospital/HOS_Horarios/Info_HOS_Horarios.jpg" alt ="Botonera" />
+		<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/Hospital/HOS_Horarios/Info_HOS_Horarios.jpg" alt ="Botonera" />
 	</div>
 
 </body><?php }} ?>

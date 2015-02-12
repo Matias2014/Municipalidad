@@ -23,7 +23,7 @@
 		<button class="menu" onClick="location.href='index.php?action=especialidad.php&id=traumatologia'"> <img src="Recorte/Hospital/HOS_Profesionales y Servicios/Bot10_H_ProfyServ.jpg" alt ="Botonera" />
 		<button class="menu" onClick="location.href='index.php?action=especialidad.php&id=cardio'"> <img src="Recorte/Hospital/HOS_Profesionales y Servicios/Bot11_H_ProfyServ.jpg" alt ="Botonera" />
 		<button class="menu" onClick="location.href='index.php?action=especialidad.php&id=hematologia'"> <img src="Recorte/Hospital/HOS_Profesionales y Servicios/Bot12_H_ProfyServ.jpg" alt ="Botonera" />
-		<button class="menu" onClick="location.href='index.php?action=especialidad.php&id=oncologio'"> <img src="Recorte/Hospital/HOS_Profesionales y Servicios/Bot13_H_ProfyServ.jpg" alt ="Botonera" />
+		<button class="menu" onClick="location.href='index.php?action=especialidad.php&id=oncologia'"> <img src="Recorte/Hospital/HOS_Profesionales y Servicios/Bot13_H_ProfyServ.jpg" alt ="Botonera" />
 		<button class="menu" onClick="location.href='index.php?action=especialidad.php&id=urologia'"> <img src="Recorte/Hospital/HOS_Profesionales y Servicios/Bot14_H_ProfyServ.jpg" alt ="Botonera" />
 		<button class="menu" onClick="location.href='index.php?action=especialidad.php&id=ginecologia'"> <img src="Recorte/Hospital/HOS_Profesionales y Servicios/Bot15_H_ProfyServ.jpg" alt ="Botonera" />
 		<button class="menu" onClick="location.href='index.php?action=especialidad.php&id=cirugiainf'"> <img src="Recorte/Hospital/HOS_Profesionales y Servicios/Bot16_H_ProfyServ.jpg" alt ="Botonera" />
@@ -34,7 +34,7 @@
 		<button class="menu" onClick="location.href='index.php?action=especialidad.php&id=psiquiatria'"> <img src="Recorte/Hospital/HOS_Profesionales y Servicios/Bot21_H_ProfyServ.jpg" alt ="Botonera" />
 		<button class="menu" onClick="location.href='index.php?action=especialidad.php&id=nutricion'"> <img src="Recorte/Hospital/HOS_Profesionales y Servicios/Bot22_H_ProfyServ.jpg" alt ="Botonera" />
 		<button class="menu" onClick="location.href='index.php?action=especialidad.php&id=obstetricia'"> <img src="Recorte/Hospital/HOS_Profesionales y Servicios/Bot23_H_ProfyServ.jpg" alt ="Botonera" />
-		<button class="menu" onClick="location.href='index.php?action=especialidad.php&id=terapiaint'"> <img src="Recorte/Hospital/HOS_Profesionales y Servicios/Bot24_H_ProfyServ.jpg" alt ="Botonera" />
+		<button class="menu" onClick="location.href='index.php?action=especialidad.php&id=terapia'"> <img src="Recorte/Hospital/HOS_Profesionales y Servicios/Bot24_H_ProfyServ.jpg" alt ="Botonera" />
 		<button class="menu" onClick="location.href='index.php?action=profesionales1.php'"> <img src="Recorte/Hospital/HOS_Profesionales y Servicios/Bot25_H_ProfyServ.jpg" alt ="Botonera" />
 	</div>
 </body>

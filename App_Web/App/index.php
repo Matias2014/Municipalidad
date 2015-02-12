@@ -508,5 +508,13 @@
 		include_once './controller/controller.php';
 		$controler = new Controlador();
 		$controler->tasas();
+	}else if($_REQUEST['action'] == 'hospitalOncologico.php'){
+		include_once './controller/controller.php';
+		$controler = new Controlador();
+		$controler->hospitaloncologico();
+	}else if($_REQUEST['action'] == 'docinternacion.php'){
+		include_once './controller/controller.php';
+		$controler = new Controlador();
+		$controler->docinternacion();
 	}
 ?>

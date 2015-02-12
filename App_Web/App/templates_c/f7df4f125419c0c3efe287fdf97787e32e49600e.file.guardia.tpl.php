@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-02-03 13:03:28
+<?php /* Smarty version Smarty-3.1.19, created on 2015-02-12 12:20:58
          compiled from ".\templates\guardia.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:303954caa833cd77d4-34372946%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'f7df4f125419c0c3efe287fdf97787e32e49600e' => 
     array (
       0 => '.\\templates\\guardia.tpl',
-      1 => 1422965006,
+      1 => 1423739971,
       2 => 'file',
     ),
   ),
@@ -53,7 +53,7 @@ $_smarty_tpl->tpl_vars['guardia']->_loop = true;
 			</div>
 			
 			<div>
-				<img src="Recorte/Hospital/HOS_Guardia/info.jpg" alt ="latera2" />
+				<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/Hospital/HOS_Guardia/info.jpg" alt ="latera2" />
 			</div>
 			
 			<div class="dia">
@@ -93,7 +93,7 @@ if (!$_smarty_tpl->tpl_vars['guardia']->_loop) {
 			</div>
 			
 			<div>
-				<img src="Recorte/Hospital/HOS_Guardia/info.jpg" alt ="latera2" />
+				<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/Hospital/HOS_Guardia/info.jpg" alt ="latera2" />
 			</div>	
 			<span class="general1"> No hay datos </span>	
 			<span class="pediatria1"> No hay datos </span>

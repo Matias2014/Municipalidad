@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2015-01-29 22:36:09
+<?php /* Smarty version Smarty-3.1.19, created on 2015-02-04 12:49:20
          compiled from ".\templates\inicioHospital.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:2380654caa7b007ad18-53319136%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '3cf4697524ac36da83f1f73321661658c8c15b94' => 
     array (
       0 => '.\\templates\\inicioHospital.tpl',
-      1 => 1422567365,
+      1 => 1423050410,
       2 => 'file',
     ),
   ),
@@ -36,8 +36,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 		<button class="menu" onClick="location.href='index.php?action=practicas.php'"> <img src="Recorte/Hospital/Inicio Hospital/Bot04_InicioHospital.jpg" alt ="Botonera" />
 		<button class="menu" onClick="location.href='index.php?action=vacunacion.php'"> <img src="Recorte/Hospital/Inicio Hospital/Bot05_InicioHospital.jpg" alt ="Botonera" />
 		<button class="menu" onClick="location.href='index.php?action=caps.php'"> <img src="Recorte/Hospital/Inicio Hospital/Bot06_InicioHospital.jpg" alt ="Botonera" />
-		<button class="menu" onClick="location.href=''"> <img src="Recorte/Hospital/Inicio Hospital/Bot07_InicioHospital.jpg" alt ="Botonera" />
+		<button class="menu" onClick="location.href='index.php?action=hospitalOncologico.php'"> <img src="Recorte/Hospital/Inicio Hospital/Bot07_InicioHospital.jpg" alt ="Botonera" />
 		<button class="menu" onClick="location.href='index.php?action=salas.php'"> <img src="Recorte/Hospital/Inicio Hospital/Bot08_InicioHospital.jpg" alt ="Botonera" />
-		<button class="menu" onClick="location.href=''"> <img src="Recorte/Hospital/Inicio Hospital/Bot09_InicioHospital.jpg" alt ="Botonera" />
+		<button class="menu" onClick="location.href='index.php?action=docinternacion.php'"> <img src="Recorte/Hospital/Inicio Hospital/Bot09_InicioHospital.jpg" alt ="Botonera" />
 	</div>
 </body><?php }} ?>

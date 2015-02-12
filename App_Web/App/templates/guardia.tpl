@@ -20,7 +20,7 @@
 			</div>
 			
 			<div>
-				<img src="Recorte/Hospital/HOS_Guardia/info.jpg" alt ="latera2" />
+				<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/Hospital/HOS_Guardia/info.jpg" alt ="latera2" />
 			</div>
 			
 			<div class="dia">
@@ -49,7 +49,7 @@
 			</div>
 			
 			<div>
-				<img src="Recorte/Hospital/HOS_Guardia/info.jpg" alt ="latera2" />
+				<img src="https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/Hospital/HOS_Guardia/info.jpg" alt ="latera2" />
 			</div>	
 			<span class="general1"> No hay datos </span>	
 			<span class="pediatria1"> No hay datos </span>
