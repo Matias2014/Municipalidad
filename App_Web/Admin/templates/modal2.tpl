@@ -12,9 +12,47 @@
 				<form method="POST">
 					<input type="hidden" name="action" value="profesionales.php"/>
 					<div class="row">
-						<div>
-							<label> Editar Profesionales </label><br>
-							<input type="text" name='categoria' id='categoria' class="form-control" placeholder="categoria"> <br>
+						<div>							
+							<select class="form-control" name='categoria' id='categoria' placeholder="categoria">
+								<option>clinica</option>
+								<option>pediatria</option>
+								<option>cirugia</option>
+								<option>neumonologia</option>
+								<option>otorrino</option>
+								<option>neurologia</option>
+								<option>oftalmologia</option>
+								<option>odontologia</option>
+								<option>gastro</option>
+								<option>traumatologia</option>
+								<option>cardio</option>
+								<option>hematologia</option>
+								<option>oncologia</option>
+								<option>urologia</option>
+								<option>ginecologia</option>
+								<option>cirugiainf</option>
+								<option>reumatologia</option>
+								<option>fisiatra</option>
+								<option>anestesiologia</option>
+								<option>diabetologia</option>
+								<option>psiquiatria</option>
+								<option>nutricion</option>
+								<option>obtetricia</option>
+								<option>anatomia</option>
+								<option>fonoudilogia</option>
+								<option>terapiaoc</option>
+								<option>psicologia</option>
+								<option>psicopedagogia</option>
+								<option>kinesiologia</option>
+								<option>asistentes</option>
+								<option>terapia</option>
+								<option>diagnostico</option>
+								<option>tomografia</option>
+								<option>farmacia</option>
+								<option>hemoterapia</option>
+								<option>densitometria</option>
+								<option>bioquimicos</option>
+								<option>laboratorio</option>
+							</select><br>
 							<input type="file" name='ruta' id='ruta'> <br>
 						</div> 
 										

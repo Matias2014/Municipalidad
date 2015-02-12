@@ -64,7 +64,7 @@
 				if(isset($_SESSION['idusuario']) && $_SESSION['idusuario'] != NULL){
 					include './view/panel.php';
 					include './model/login.php';
-					$reg = array(':categoria'=>$_REQUEST["categoria"], ':ruta'=>"Recorte/Hospital/HOS_Profesionales/".$_REQUEST["ruta"]);
+					$reg = array(':categoria'=>$_REQUEST["categoria"], ':ruta'=>"https://raw.githubusercontent.com/Matias2014/Municipalidad/master/App_Web/App/Recorte/Hospital/HOS_Profesionales/".$_REQUEST["ruta"]);
 					$v = new Usuario();
 					$consulta = $v->editarprofesionales($reg);
 					$vista = new Vistapanel();
